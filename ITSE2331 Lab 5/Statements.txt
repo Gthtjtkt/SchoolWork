@@ -1,0 +1,4 @@
+For lab 5
+Had a bit of trouble getting the overrides in TwoDayPackage and OvernightPackage to work correctly
+using protected member variables was a new thing for me, but it wasn't any harder than using private
+OvernightPackage and TwoDayPackage were thankfully very similar to write, so once i had one the other was a cinch

@@ -1,0 +1,6 @@
+Comments
+
+Overall, i found this lab to be more difficult than the last one, but not too much more.
+The second hardest thing was getting the compareArrays function working properly
+the hardest was definitely the sortArrays function, since i had to make a template class for it.
+I had other problems with the sortArrays function, since the way that i was formatting them was accidentally changing how they were sorted
